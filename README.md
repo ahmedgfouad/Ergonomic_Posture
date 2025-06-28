@@ -26,14 +26,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedgfouad/Ergonomic_Posture/main/1.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/ahmedgfouad/Ergonomic_Posture/main/2.png" width="300"/>
+   <img src="https://raw.githubusercontent.com/ahmedgfouad/Ergonomic_Posture/main/1.png" width="300"/>
   <br/>
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedgfouad/Ergonomic_Posture/main/3.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/ahmedgfouad/Ergonomic_Posture/main/4.png" width="300"/>
-  <br/>
 
 ---
 
