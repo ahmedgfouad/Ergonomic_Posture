@@ -39,8 +39,6 @@
 
 - **Flutter** – UI framework  
 - **Dart** – Programming language  
-- **BLoC** – For state management  
-- **Firebase** – For content/media integration (if used)  
 - **Responsive Design** – Compatible with all devices  
 
 
